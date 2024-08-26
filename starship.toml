@@ -55,6 +55,7 @@ style = "bold lavender"
 Ubuntu = "\ue73a "
 Unknown = "❓ "
 Windows = "\ue70f "
+Arch = "\uf303 "
 
 [os]
 disabled = false
